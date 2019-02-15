@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\bin\Debug\SchoolMascotNoahV.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\bin\Debug\SchoolMascotNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\bin\Debug\SchoolMascotNoahV.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\SchoolMascotNoahV\SchoolMascotNoahV\obj\Debug\SchoolMascotNoahV.csprojResolveAssemblyReference.cache

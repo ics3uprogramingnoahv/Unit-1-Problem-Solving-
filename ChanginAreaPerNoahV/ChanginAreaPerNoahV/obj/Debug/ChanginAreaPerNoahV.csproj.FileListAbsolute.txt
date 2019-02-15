@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\bin\Debug\ChanginAreaPerNoahV.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\bin\Debug\ChanginAreaPerNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\bin\Debug\ChanginAreaPerNoahV.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.frmChangingAreaPer.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Voroney, Noah (s251806)\Unit 1 (Problem Solving)\ChanginAreaPerNoahV\ChanginAreaPerNoahV\obj\Debug\ChanginAreaPerNoahV.pdb
