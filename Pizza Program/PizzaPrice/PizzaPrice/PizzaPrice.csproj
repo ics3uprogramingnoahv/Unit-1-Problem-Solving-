@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6A0B346-A300-46A7-B64B-98656ACBC809}</ProjectGuid>
+    <ProjectGuid>{0845CF06-1776-414F-A2A6-FB2A1B109E88}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CircumferenceOfCircles</RootNamespace>
-    <AssemblyName>CircumferenceOfCircles</AssemblyName>
+    <RootNamespace>PizzaPrice</RootNamespace>
+    <AssemblyName>PizzaPrice</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CircumferenceForm.cs">
+    <Compile Include="PizzaPriceForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CircumferenceForm.Designer.cs">
-      <DependentUpon>CircumferenceForm.cs</DependentUpon>
+    <Compile Include="PizzaPriceForm.Designer.cs">
+      <DependentUpon>PizzaPriceForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Circumference.cs" />
+    <Compile Include="PizzaPrice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="CircumferenceForm.resx">
-      <DependentUpon>CircumferenceForm.cs</DependentUpon>
+    <EmbeddedResource Include="PizzaPriceForm.resx">
+      <DependentUpon>PizzaPriceForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
